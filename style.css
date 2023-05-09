@@ -66,6 +66,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 4px;
   font-size: 14px;
+  color: var(--Dark-grayish-blue);
 }
 
 .item-title {
@@ -119,7 +120,7 @@ button:hover {
   font-size: 32px;
   font-weight: 700;
   color: var(--Dark-cyan);
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .price2 {
